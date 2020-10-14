@@ -1,8 +1,6 @@
 ### Hi, I'm Nicolas! 👋
 
-I'm studying Aerospace Engineering and Computer Science. Recently, I've discovered that my destiny is a being a web-developer but still I am looking for a the best suitable it-branch form me.
-I love spending hours and hours on learning, reading, building new projects and keep my body in shape (🤣).
-Some technologies I enjoy working with include Vue.js, ASP .Net, Node.js (Express), MongoDB(mongoose)
+I'm studying Aerospace Engineering and Computer Science. Recently, I've discovered that my destiny is being a web-developer but still I am looking for the best suitable it-branch from me. I love spending hours and hours on learning, reading, building new projects, and keep my body in shape (🤣). Some technologies I enjoy working with include Vue.js, ASP .Net, Node.js (Express), MongoDB(mongoose)
 
 ## 🌱 I’m currently learning 
 * Vue.js
