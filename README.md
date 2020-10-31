@@ -8,7 +8,8 @@ I'm studying Aerospace Engineering and Computer Science. Recently, I've discover
 * TypeScript
 * Node.js
 ## 🔭 I’m currently working on
-* food-delivery website
+* spotify-widget-app
+* weather-location-app
 ## 👯 I’m looking to collaborate on :
 * interesting and challanging web-dev projects
 
