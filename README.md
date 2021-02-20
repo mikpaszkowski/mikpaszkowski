@@ -4,8 +4,7 @@ I'm studying Aerospace Engineering and Computer Science. Recently, I've discover
 
 ## 🌱 I’m currently learning 
 * Vue.js
-* Sequelize
-* TypeScript
+* React.js
 * Node.js
 ## 🔭 I’m currently working on
 * spotify-widget-app
