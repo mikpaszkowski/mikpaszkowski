@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 -->
 
 
-[1]: www.linkedin.com/in/paszkowski-mikolaj
+[1]: https://linkedin.com/in/paszkowski-mikolaj
 [1.1]: https://img.shields.io/badge/Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8
 [2]: https://twitter.com/paszkowskidev
 [1.2]: https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2
