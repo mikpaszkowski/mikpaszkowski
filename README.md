@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas! 👋
 
-I'm studying Aerospace Engineering and Computer Science. Recently, I've discovered that my destiny is being a web-developer but still I am looking for the best suitable it-branch from me. I love spending hours and hours on learning, reading, building new projects, and keep my body in shape (🤣). 
+I'm Aerospace Engineer and Computer Science student. Recently, I've discovered that my destiny is being a web-developer but still I am looking for the best suitable it-branch from me. I love spending hours and hours on learning, reading, building new projects, and keep my body in shape (🤣). 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2ecc71)
