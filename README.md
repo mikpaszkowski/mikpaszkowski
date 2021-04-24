@@ -14,12 +14,12 @@ I'm Aerospace Engineer and Computer Science student. Recently, I've discovered t
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=2ecc71)
 
 ## 🌱 I’m currently learning 
-* Vue.js
-* React.js
-* Node.js
+* PostgreSQL
+* MicroServices with NodeJS
+* ReactJS
+* Domain-Drive-Design, some testing with Mocha nad Chai
 ## 🔭 I’m currently working on
-* spotify-widget-app
-* weather-location-app
+* financial-app
 ## 👯 I’m looking to collaborate on :
 * interesting and challanging web-dev projects
 
