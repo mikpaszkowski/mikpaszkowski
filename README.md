@@ -17,6 +17,7 @@ I'm Aerospace Engineer and Computer Science student. Recently, I've discovered t
 * PostgreSQL
 * MicroServices with NodeJS
 * ReactJS
+* TypeScript
 * Domain-Drive-Design, some testing with Mocha nad Chai
 ## 🔭 I’m currently working on
 * financial-app
