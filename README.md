@@ -28,6 +28,7 @@ I'm Aerospace Engineer and Computer Science student. Recently, I've discovered t
   [![Linkedin][1.1]][1]
    [![Twitter][1.2]][2]
    [![HackerRank][3.1]][3]
+   [![Instagram][4.1]][4]
   
 <!--
 **mikpaszkowski/mikpaszkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,3 +52,5 @@ Here are some ideas to get you started:
 [1.2]: https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2
 [3]: https://www.hackerrank.com/paszkowski_miko1
 [3.1]: https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=#2ec866
+[4]: https://www.instagram.com/nicolas.paszkowski/
+[4.1]: https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=#de0a93
