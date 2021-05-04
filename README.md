@@ -27,6 +27,7 @@ I'm Aerospace Engineer and Computer Science student. Recently, I've discovered t
 ## 📫 How to reach me:
   [![Linkedin][1.1]][1]
    [![Twitter][1.2]][2]
+   [![HackerRank][3.1]][3]
   
 <!--
 **mikpaszkowski/mikpaszkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,3 +49,5 @@ Here are some ideas to get you started:
 [1.1]: https://img.shields.io/badge/Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8
 [2]: https://twitter.com/paszkowskidev
 [1.2]: https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1da1f2
+[3]: https://www.hackerrank.com/paszkowski_miko1
+[3.1]: https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=#2ec866
