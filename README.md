@@ -1,7 +1,13 @@
 # Hi, I'm Nicolas! 👋
 
-I'm Aerospace Engineer and Computer Science student. Recently, I've discovered that my destiny is being a web-developer but still I am looking for the best suitable it-branch from me. I love spending hours and hours on learning, reading, building new projects, and keep my body in shape (🤣). 
-
+![](https://visitor-badge.glitch.me/badge?page_id=mikpaszkowski.mikpaszkowski)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
+```
+I'm Aerospace Engineer and Computer Science student. Recently, I've discovered 
+that my destiny is being a web-developer but still I am looking for the best 
+suitable it-branch from me. I love spending hours and hours on learning, 
+reading, building new projects, and keep my body in shape (🤣). 
+```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2ecc71)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2ecc71)
@@ -14,17 +20,34 @@ I'm Aerospace Engineer and Computer Science student. Recently, I've discovered t
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2ecc71)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=2ecc71)
 
+## 📈 My GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mikpaszkowski&show_icons=true&theme=gotham" alt="mikpaszkowski_stats" />
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikpaszkowski&layout=compact&theme=gotham" alt="mikpaszkowski_lang" />
+
 ## 🌱 I’m currently learning 
+```
 * PostgreSQL
 * MicroServices with NodeJS
 * ReactJS
 * TypeScript
 * Domain-Drive-Design, some testing with Mocha nad Chai
+```
 ## 🔭 I’m currently working on
+```
 * financial-app
-## 👯 I’m looking to collaborate on :
-* interesting and challanging web-dev projects
+* weather-app
+* e-commerce shop
+```
+<!--
+## 👨‍💻 How I spent my time this week:
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikpaszkowski)](https://github.com/anuraghazra/github-readme-stats)
+-->
+## 👯 I’m looking to collaborate on :
+```
+* interesting and challanging web-dev projects
+```
 ## 📫 How to reach me:
   [![Linkedin][1.1]][1]
    [![Twitter][1.2]][2]
