@@ -3,9 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mikpaszkowski.mikpaszkowski)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
 ```
-I'm Aerospace Engineer and Computer Science student. Recently, I've discovered 
-that my destiny is being a web-developer but still I am looking for the best 
-suitable it-branch from me. I love spending hours and hours on learning, 
+I'm Aerospace Engineer and Computer Science student. I love spending hours and hours on learning, 
 reading, building new projects, and keep my body in shape (🤣). 
 ```
 ## 🔧 Technologies & Tools
