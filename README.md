@@ -25,17 +25,16 @@ reading, building new projects, and keep my body in shape (🤣).
 
 ## 🌱 I’m currently learning 
 ```
-* PostgreSQL
-* MicroServices with NodeJS
-* ReactJS
+* Remix.js
+* Cypress e2e testing
 * TypeScript
-* Domain-Drive-Design, some testing with Mocha nad Chai
+* Cloud solutions
+* Mastering Service Worker
+* Web 3.0 
 ```
 ## 🔭 I’m currently working on
 ```
-* financial-app
-* weather-app
-* e-commerce shop
+* NFT rental system based on XRPL
 ```
 <!--
 ## 👨‍💻 How I spent my time this week:
