@@ -44,7 +44,7 @@ reading, building new projects, and keep my body in shape (🤣).
 -->
 ## 👯 I’m looking to collaborate on :
 ```
-* interesting and challanging web-dev projects
+* interesting and challanging projects in web and cloud
 ```
 ## 📫 How to reach me:
   [![Linkedin][1.1]][1]
