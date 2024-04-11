@@ -25,16 +25,13 @@ reading, building new projects, and keeping my body in shape (🤣).
 
 ## 🌱 I’m currently learning 
 ```
-* Remix.js
-* Cypress e2e testing
-* TypeScript
-* Cloud solutions
-* Mastering Service Worker
-* Web 3.0 
+* Azure Cloud
+* Go
+* Algorithms and Data Structures
 ```
 ## 🔭 I’m currently working on
 ```
-* NFT rental system based on XRPL
+* Azure Associate Developer Certificate
 ```
 <!--
 ## 👨‍💻 How I spent my time this week:
