@@ -11,13 +11,11 @@
 
 ## 🌱 I’m currently learning 
 ```
-* Azure Cloud
-* Go
-* Algorithms and Data Structures
+* Mutli-Agent Systems (MAS), Prompt Engineering, Conversational Recommendation Systems
 ```
 ## 🔭 I’m currently working on
 ```
-* Azure Associate Developer Certificate
+* Master Thesis - Conversational Recommendation System with Generative AI
 ```
 <!--
 ## 👨‍💻 How I spent my time this week:
