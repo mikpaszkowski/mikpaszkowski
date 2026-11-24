@@ -2,10 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mikpaszkowski.mikpaszkowski)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
-```
-I'm a Computer Science student working as a full-stack developer. I love spending hours and hours learning, 
-reading, building new projects, and keeping my body in shape (🤣). 
-```
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2ecc71)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2ecc71)
